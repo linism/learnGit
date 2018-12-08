@@ -5,3 +5,4 @@ not add and commit.   --find a error
 Git is a distributed version control system.
 Git is free software.
 Git has a mutable index called stage.
+략략략략
